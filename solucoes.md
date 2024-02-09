@@ -38,4 +38,6 @@ _O comando utilizado para criar a estrutura de diretórios foi:_
 mkdir -p foo/bar/1/2/3
 ```
 
+_6. (B) Remove the directory "foo" and all of its contents._
+
 
