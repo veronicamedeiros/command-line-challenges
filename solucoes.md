@@ -69,3 +69,7 @@ _O comando utilizado para criar o arquivo vazio foi:_
 ```sh
 touch empty.txt
 ```
+
+_10. (B) Remove the file "empty.txt"_
+
+
