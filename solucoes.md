@@ -22,4 +22,6 @@ _O comando utilizado para listar o conteúdo do diretório solicitado (considera
 ls
 ```
 
+_4. (B) Create a new directory named "foo"._
+
 
