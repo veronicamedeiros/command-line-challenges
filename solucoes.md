@@ -32,4 +32,10 @@ mkdir foo
 
 _5. (I) Create a new directory named "foo/bar/1/2/3"._
 
+_O comando utilizado para criar a estrutura de diretórios foi:_
+
+```sh
+mkdir -p foo/bar/1/2/3
+```
+
 
