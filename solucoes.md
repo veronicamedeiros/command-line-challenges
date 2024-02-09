@@ -62,3 +62,6 @@ _O comando utilizado para criar o arquivo com o conteúdo dentro foi:_
 echo "Hello World" > hello.txt
 ```
 
+_9. (B) Create an empty file named "empty.txt"_
+
+
