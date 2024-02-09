@@ -88,6 +88,12 @@ _Outra forma de criar um arquivo vazio é pelo comando:_
 
 _12. (I) Find a third way to solve challenge 9._
 
+_Mais uma forma de criar um arquivo vazio é pelo comando:_
+
+```sh
+truncate -s 0 empty.txt
+```
+
 
 
 
