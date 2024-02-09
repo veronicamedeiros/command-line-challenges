@@ -14,4 +14,4 @@ _O comando utilizado para mudar para o diretório solicitado foi:_
 cd challenges
 ```
 
-
+_3. (B) List the contents of the "challenges" directory._
