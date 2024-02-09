@@ -22,4 +22,12 @@ _O comando utilizado para listar o conteúdo do diretório solicitado (considera
 ls
 ```
 
+_4. (B) Create a new directory named "foo"._
+
+_O comando utilizado para criar um novo diretório com o nome solicitado foi:_
+
+```sh
+mkdir foo
+```
+
 
