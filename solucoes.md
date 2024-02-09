@@ -80,4 +80,14 @@ rm empty.txt
 
 _11. (I) Find a second way to solve challenge 9._
 
+_Outra forma de criar um arquivo vazio é pelo comando:_
+
+```sh
+> empty.txt
+```
+
+
+
+
+
 
