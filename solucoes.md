@@ -40,4 +40,10 @@ mkdir -p foo/bar/1/2/3
 
 _6. (B) Remove the directory "foo" and all of its contents._
 
+_O comando utilizado para excluir o diretório indicado e seu conteúdo foi:_
+
+```sh
+rm -r foo
+```
+
 
