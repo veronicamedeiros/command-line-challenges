@@ -47,3 +47,13 @@ rm -r foo
 ```
 
 _7. (B) Print the text "Hello World"._
+
+_Para imprimir o texto no terminal, utilizou-se o comando:_
+
+```sh
+echo "hello world"
+```
+
+
+
+
