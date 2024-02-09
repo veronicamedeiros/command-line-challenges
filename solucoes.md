@@ -78,4 +78,6 @@ _O comando utilizado para apagar o arquivo vazio foi:_
 rm empty.txt
 ```
 
+_11. (I) Find a second way to solve challenge 9._
+
 
