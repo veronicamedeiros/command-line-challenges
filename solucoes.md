@@ -30,4 +30,6 @@ _O comando utilizado para criar um novo diretório com o nome solicitado foi:_
 mkdir foo
 ```
 
+_5. (I) Create a new directory named "foo/bar/1/2/3"._
+
 
