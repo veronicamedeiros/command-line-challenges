@@ -56,6 +56,9 @@ echo "hello world"
 
 _8. (B) Create a file named "hello.txt" that contains the text "Hello World"._
 
+_O comando utilizado para criar o arquivo com o conteúdo dentro foi:_
 
-
+```sh
+echo "Hello World" > hello.txt
+```
 
