@@ -94,6 +94,8 @@ _Mais uma forma de criar um arquivo vazio é pelo comando:_
 truncate -s 0 empty.txt
 ```
 
+_13. (B) Copy "hello.txt" and name the copy "goodbye.txt"._
+
 
 
 
