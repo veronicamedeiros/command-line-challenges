@@ -46,4 +46,4 @@ _O comando utilizado para excluir o diretório indicado e seu conteúdo foi:_
 rm -r foo
 ```
 
-
+_7. (B) Print the text "Hello World"._
