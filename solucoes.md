@@ -187,6 +187,12 @@ _Para rodar o programa indicado, direcionar sua saída para o arquivo "output.tx
 
 _24. (B) Get the current date and time._
 
+_O comando utilizado para visualizar data e hora atual foi:_
+
+```sh
+date
+```
+
 
 
 
