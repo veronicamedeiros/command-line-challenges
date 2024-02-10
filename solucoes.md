@@ -193,6 +193,13 @@ _O comando utilizado para visualizar data e hora atual foi:_
 date
 ```
 
+_25. (B) Show all of the running processes on your computer._
+
+_O comando utilizado para mostrar os processos em execução (de todos os usuários) foi:_
+
+```sh
+ps aux
+```
 
 
 
