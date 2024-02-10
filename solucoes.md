@@ -119,4 +119,7 @@ _O comando utilizado para exibir o conteúdo dos dois arquivos, mostrando assim 
 cat hello.txt hello_copy.txt
 ```
 
+_16. (B) Concatenate the contents of "hello.txt" and "hello_copy.txt" and store
+    the result in a file named "2_hellos.txt"._
+    
 
