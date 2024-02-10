@@ -179,6 +179,12 @@ gcc -o compile_me compile_me.c && ./compile_me
 
 _23. (A) Run the "redirect" program and collect all of its output in a file named "output.txt"._
 
+_Para rodar o programa indicado, direcionar sua saída para o arquivo "output.txt" e então o abrir, foi utilizado  o comando:_
+
+```sh
+./redirect > output.txt && xdg-open output.txt
+```
+
 
 
 
