@@ -136,4 +136,13 @@ _O comando utilizado para exibir o caminho da pasta atual foi:_
 pwd
 ```
 
+_18. (B) List the contents of the "challenges" directory (like challenge 3), but
+    show the permissions for each filxse._
+    
+_O comando utilizado para listar o conteúdo do diretório solicitado e mostrar as permissões (considerando que a pessoa já está no diretório correto) foi:_
+
+```sh
+ls -l
+```
+
 
