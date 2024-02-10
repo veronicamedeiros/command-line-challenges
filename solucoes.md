@@ -104,6 +104,10 @@ cp hello.txt goodbye.txt
 
 14. (B) Rename "goodby.txt" to "hello_copy.txt".
 
+_O comando utilizado para renomear o arquivo foi:_
 
+```sh
+mv goodby.txt hello_copy.txt
+```
 
 
