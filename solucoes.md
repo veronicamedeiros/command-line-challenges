@@ -110,4 +110,7 @@ _O comando utilizado para renomear o arquivo foi:_
 mv goodby.txt hello_copy.txt
 ```
 
-
+_15. (I) Prove that the contents of "hello.txt" and "hello_copy.txt" are
+    identical._
+    
+    
