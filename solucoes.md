@@ -145,4 +145,12 @@ _O comando utilizado para listar o conteúdo do diretório solicitado e mostrar 
 ls -l
 ```
 
+_19. (B) Append some text to the end of "restricted.txt". It's OK to do this in 2 steps._
+    
+_Para inserir um texto no final do arquivo solicitado, foi necessário usar o comando abaixo juntamente com o sudo para permitir a ação. "-c" é utilizado para indicar ao shell que o próximo argumento é um comando a ser executado._
+
+```sh
+sudo sh -c 'echo "Texto de teste" >> restricted.txt'
+```
+
 
