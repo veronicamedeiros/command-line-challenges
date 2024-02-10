@@ -163,5 +163,10 @@ _Para rodar o programa, utilizou-se o comando abaixo:_
 
 _21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps._
 
+_Para tornar o arquivo executável e rodá-lo, foi utilizado o comando:_
+
+```sh
+chmod +x challenge_20 && ./challenge_20
+```
 
 
