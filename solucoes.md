@@ -193,6 +193,7 @@ _O comando utilizado para visualizar data e hora atual foi:_
 date
 ```
 
+_25. (B) Show all of the running processes on your computer._
 
 
 
