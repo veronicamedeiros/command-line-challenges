@@ -153,4 +153,20 @@ _Para inserir um texto no final do arquivo solicitado, foi necessário usar o co
 sudo sh -c 'echo "Texto de teste" >> restricted.txt'
 ```
 
+_20. (B) Run the "hello_executable" program._
+
+_Para rodar o programa, utilizou-se o comando abaixo:_
+
+```sh
+./hello_executable
+```
+
+_21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps._
+
+_Para tornar o arquivo executável e rodá-lo, foi utilizado o comando:_
+
+```sh
+chmod +x challenge_20 && ./challenge_20
+```
+
 
