@@ -171,4 +171,10 @@ chmod +x challenge_20 && ./challenge_20
 
 _22. (B) Compile and run "compile_me.c". It's OK to do this in 2 steps._
 
+_Para compilar o programa e rodá-lo, foi utilizado o compilador C padrão junto ao comando para executá-lo:_
+
+```sh
+gcc -o compile_me compile_me.c && ./compile_me
+```
+
 
