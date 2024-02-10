@@ -130,4 +130,10 @@ cat hello.txt hello_copy.txt > 2_hellos.txt
 
 _17. (B) Get the full path of your present working directory ("challenges")._
 
+_O comando utilizado para exibir o caminho da pasta atual foi:_
+
+```sh
+pwd
+```
+
 
