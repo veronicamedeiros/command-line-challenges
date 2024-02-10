@@ -145,4 +145,7 @@ _O comando utilizado para listar o conteúdo do diretório solicitado e mostrar 
 ls -l
 ```
 
+_19. (B) Append some text to the end of "restricted.txt". It's OK to do this in
+    2 steps._
+    
 
