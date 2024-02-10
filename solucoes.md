@@ -102,6 +102,8 @@ _O comando utilizado para copiar um arquivo e renomeá-lo foi:_
 cp hello.txt goodbye.txt
 ```
 
+14. (B) Rename "goodby.txt" to "hello_copy.txt".
+
 
 
 
