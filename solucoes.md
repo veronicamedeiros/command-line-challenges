@@ -110,4 +110,13 @@ _O comando utilizado para renomear o arquivo foi:_
 mv goodby.txt hello_copy.txt
 ```
 
+_15. (I) Prove that the contents of "hello.txt" and "hello_copy.txt" are
+    identical._
+    
+_O comando utilizado para exibir o conteúdo dos dois arquivos, mostrando assim que o conteúdo é igual, foi:_
+
+```sh
+cat hello.txt hello_copy.txt
+```
+
 
