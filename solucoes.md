@@ -177,4 +177,8 @@ _Para compilar o programa e rodá-lo, foi utilizado o compilador C padrão junto
 gcc -o compile_me compile_me.c && ./compile_me
 ```
 
+_23. (A) Run the "redirect" program and collect all of its output in a file named "output.txt"._
+
+
+
 
