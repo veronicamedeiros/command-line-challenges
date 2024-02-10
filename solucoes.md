@@ -185,6 +185,9 @@ _Para rodar o programa indicado, direcionar sua saída para o arquivo "output.tx
 ./redirect > output.txt && xdg-open output.txt
 ```
 
+_24. (B) Get the current date and time._
+
+
 
 
 
