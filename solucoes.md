@@ -242,6 +242,8 @@ _O comando utilizado para listar as últimas 25 linhas do arquivo indicado foi:_
 tail -n 25 people.csv
 ```
 
+_31. (I) Display just the differences between greeting1.txt and greeting2.txt_
+
 
 
 
