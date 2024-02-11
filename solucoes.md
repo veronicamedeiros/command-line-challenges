@@ -226,6 +226,8 @@ _O comando utilizado para encontrar a String indicada, foi:_
 grep -l "You found the needle in the haystack!" *
 ```
 
+_29. (B) Print the first 25 lines of people.csv._
+
 
 
 
