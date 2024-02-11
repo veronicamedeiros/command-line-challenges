@@ -250,6 +250,8 @@ _O comando utilizado para mostrar apenas as diferenças entre os dois arquivos i
 diff greeting1.txt greeting2.txt
 ```
 
+_32. (I) Print "Hello", then wait 5 seconds, then print "world!"._
+
 
 
 
