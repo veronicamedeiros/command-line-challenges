@@ -226,6 +226,14 @@ _O comando utilizado para encontrar a String indicada, foi:_
 grep -l "You found the needle in the haystack!" *
 ```
 
+_29. (B) Print the first 25 lines of people.csv._
+
+_O comando utilizado para listar as primeiras 25 linhas do arquivo indicado foi_
+
+```sh
+head -n 25 people.csv
+```
+
 
 
 
