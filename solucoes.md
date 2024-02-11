@@ -252,6 +252,12 @@ diff greeting1.txt greeting2.txt
 
 _32. (I) Print "Hello", then wait 5 seconds, then print "world!"._
 
+_O comando utilizado para imprimir a palavra "Hello", aguardar 5 segundos e então imprimir "world!" foi:_
+
+```sh
+echo "Hello" && sleep 5s && echo "world!"
+```
+
 
 
 
