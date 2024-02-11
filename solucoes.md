@@ -201,6 +201,14 @@ _O comando utilizado para mostrar os processos em execução (de todos os usuár
 ps aux
 ```
 
+_26. (B) Show the number of processors/cores in your computer._
+
+_O comando utilizado para mostrar o número de processadores/cores foi:_
+
+```sh
+nproc
+```
+
 
 
 
