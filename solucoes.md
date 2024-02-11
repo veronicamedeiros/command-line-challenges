@@ -244,6 +244,12 @@ tail -n 25 people.csv
 
 _31. (I) Display just the differences between greeting1.txt and greeting2.txt_
 
+_O comando utilizado para mostrar apenas as diferenças entre os dois arquivos indicados foi:_
+
+```sh
+diff greeting1.txt greeting2.txt
+```
+
 
 
 
