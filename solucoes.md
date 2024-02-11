@@ -220,7 +220,13 @@ uname -r
 _28. (B) Find the file in the "bunch_of_files/" directory that contains the string:
     "You found the needle in the haystack!"_
     
-    
+_O comando utilizado para encontrar a String indicada, foi:_
+
+```sh
+grep -l "You found the needle in the haystack!" *
+```
+
+
 
 
 
