@@ -209,6 +209,8 @@ _O comando utilizado para mostrar o número de processadores/cores foi:_
 nproc
 ```
 
+_27. (B) Find out what version of the Linux kernel is currently running._
+
 
 
 
