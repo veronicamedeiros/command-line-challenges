@@ -234,6 +234,8 @@ _O comando utilizado para listar as primeiras 25 linhas do arquivo indicado foi_
 head -n 25 people.csv
 ```
 
+_30. (B) Print the last 25 lines of people.csv._
+
 
 
 
