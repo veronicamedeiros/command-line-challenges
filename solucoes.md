@@ -266,6 +266,8 @@ _O comando utilizado para criar um arquivo cheio de zeros com 1MB foi:_
 truncate -s 1M arquivo-zeros.txt
 ```
 
+_34. (I) Create a 2MB file full of random data._
+
 
 
 
