@@ -284,6 +284,12 @@ wc -l README.txt
 
 _36. (B) Display the contents of README.txt in reverse (last line first)._
 
+_O comando utilizado para exibir o conteúdo do arquivo indicado a partir do final foi:_
+
+```sh
+tac README.txt
+```
+
 
 
 
