@@ -260,6 +260,12 @@ echo "Hello" && sleep 5s && echo "world!"
 
 _33. (I) Create a 1MB file full of zeros._
 
+_O comando utilizado para criar um arquivo cheio de zeros com 1MB foi:_
+
+```sh
+truncate -s 1M arquivo-zeros.txt
+```
+
 
 
 
