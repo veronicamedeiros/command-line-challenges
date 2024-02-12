@@ -274,6 +274,14 @@ _O comando utilizado para criar um arquivo cheio de dados aleatórios com 2MB fo
 head -c 2M /dev/urandom > arquivo_aleatorios.txt
 ```
 
+_35. (I) Count the number of lines in README.txt._
+
+_O comando utilizado para contar o número de linhas do arquivo indicado foi:_
+
+```sh
+wc -l README.txt
+```
+
 
 
 
