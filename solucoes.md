@@ -266,6 +266,17 @@ _O comando utilizado para criar um arquivo cheio de zeros com 1MB foi:_
 truncate -s 1M arquivo-zeros.txt
 ```
 
+_34. (I) Create a 2MB file full of random data._
+
+_O comando utilizado para criar um arquivo cheio de dados aleatórios com 2MB foi:_
+
+```sh
+head -c 2M /dev/urandom > arquivo_aleatorios.txt
+```
+
+
+
+
 
 
 
