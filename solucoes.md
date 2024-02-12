@@ -258,6 +258,8 @@ _O comando utilizado para imprimir a palavra "Hello", aguardar 5 segundos e ent√
 echo "Hello" && sleep 5s && echo "world!"
 ```
 
+_33. (I) Create a 1MB file full of zeros._
+
 
 
 
