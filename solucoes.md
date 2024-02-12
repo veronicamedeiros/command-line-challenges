@@ -290,6 +290,14 @@ _O comando utilizado para exibir o conteúdo do arquivo indicado a partir do fin
 tac README.txt
 ```
 
+_37. (I) Display all of the last names in people.csv._
+
+_O comando utilizado para exibir a coluna que contém os sobrenomes, que estão na coluna 2, foi:_
+
+```sh
+awk -F ',' '{print $2}' people.csv
+```
+
 
 
 
