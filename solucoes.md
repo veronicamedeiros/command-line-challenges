@@ -290,6 +290,8 @@ _O comando utilizado para exibir o conteúdo do arquivo indicado a partir do fin
 tac README.txt
 ```
 
+_37. (I) Display all of the last names in people.csv._
+
 
 
 
