@@ -282,6 +282,10 @@ _O comando utilizado para contar o número de linhas do arquivo indicado foi:_
 wc -l README.txt
 ```
 
+_36. (B) Display the contents of README.txt in reverse (last line first)._
+
+
+
 
 
 
